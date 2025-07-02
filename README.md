@@ -1,4 +1,4 @@
-<h2 align="left">Olaa everyone! My name is Ahmad Rofi' Izzulhaq and I'm a student of Information Technology, from Telkom University</h2>
+<h2 align="left">Olaa everyone! I'm Ahmad Rofi' Izzulhaq and I'm a student of Information Technology, from Telkom University</h2>
 
 ###
 
