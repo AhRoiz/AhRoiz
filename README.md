@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="160" src="https://media1.tenor.com/m/4wePdl7hnb8AAAAC/furina-furina-de-fontaine.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/4wePdl7hnb8AAAAC/furina-furina-de-fontaine.gif"  />
 
 ###
 
@@ -42,12 +42,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhRoiz/AhRoiz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhRoiz/AhRoiz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhRoiz/AhRoiz/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/AhRoiz/AhRoiz/output/snake.svg" alt="Snake animation" />
 
 ###
