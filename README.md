@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmad Rofi' Izzulhaq and I'm a student of a Information Technology, from Telkom University</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
