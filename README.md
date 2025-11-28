@@ -57,4 +57,10 @@
 
 ###
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AhRoiz/AhRoiz/output/snake.svg" alt="Snake animation" />
+
+###
