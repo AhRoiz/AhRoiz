@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://veecodes.id](https://www.veecodes.id/)">
+  <a href="https://veecodes.id">
     <img src="https://img.shields.io/badge/Portfolio-veecodes.id-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ahroiz">
@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 I'm **Ahmad Rofi' Izzulhaq (Vee)**, an Information Technology student at **Telkom University** based in Indonesia 🇮🇩. 
-I view code as a form of modern art, blending **interactive frontend design** with **robust security protocols**. My goal is to become a specialized **Purple Team** operator, bridging the gap between offensive (Red) and defensive (Blue) security.
+I view code as a form of modern art—blending **interactive frontend design** with **robust security protocols**. My goal is to become a specialized **Purple Team** operator, bridging the gap between offensive (Red) and defensive (Blue) security.
 
 - 🔭 I’m currently working on **Advanced React & Three.js Artifacts**
 - 🌱 I’m currently learning **Penetration Testing & Malware Analysis**
