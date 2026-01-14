@@ -60,13 +60,10 @@ I view code as a form of modern art—blending **interactive frontend design** w
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhRoiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="AhRoiz's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhRoiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="AhRoiz's Top Langs" />
-</div>
+[![AhRoiz's Stats](https://github-readme-stats.vercel.app/api?username=AhRoiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhRoiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhRoiz&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=AhRoiz&label=PROFILE+VIEWS&color=blue&style=flat-square)
