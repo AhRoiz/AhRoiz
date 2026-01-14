@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://veecodes.id">
+  <a href="[https://veecodes.id](https://www.veecodes.id/)">
     <img src="https://img.shields.io/badge/Portfolio-veecodes.id-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ahroiz">
