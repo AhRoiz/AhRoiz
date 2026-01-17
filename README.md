@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://veecodes.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=HI,+I'M+AHMAD+ROFI'+(VEE);FULLSTACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;GAME+DEVELOPER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=HI,+I'M+AHMAD+ROFI'+(VEE);FULLSTACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;TECH ENTHUSIAST" alt="Typing SVG" />
   </a>
 </div>
 
